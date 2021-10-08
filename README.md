@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Margarita's GitHub stats](https://github-readme-stats.vercel.app/api?username=margazm)](https://github.com/margazm/github-readme-stats) 
+![snake](https://raw.githubusercontent.com/margaZM/margaZM/386cac36b1b62c559407128cd242f9bbc94adf77/snake.svg)
 
