@@ -1,10 +1,11 @@
 <h1 align="center">Hi there, I'm Margarita 👋
 
-[![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.linkedin.com/in/margazm) [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/margazm/) </h1>
-
-<h1 align="center">I'm a Wife, Mother and Developer!! </h1>
+[![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/margazm/) [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/margazm/) </h1>
 
 <!--
+<h1 align="center">I'm a Wife, Mother and Developer!! </h1>
+
+
 **margaZM/margaZM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
