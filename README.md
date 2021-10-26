@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm Margarita 👋
+<h1 align="center">Hi there, I'm Margarita ![hello-hola](https://user-images.githubusercontent.com/78278982/138802904-928b5417-bfbb-47c4-86ab-12b05c5b784e.gif)
 
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/margazm/) [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/margazm/) </h1>
 
+
+<h4 align="center"> Soy Front End Developer egresada de Laboratoria con experiencia en HTML/CSS - Javascript - React </h4>
+
 <!--
-<h1 align="center">I'm a Wife, Mother and Developer!! </h1>
-
-
 **margaZM/margaZM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Languages and Tools: </h1>
+<h2 align="center">Lenguajes y Herramientas: </h2>
 
 <div align="center">
   <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
