@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Margarita ![hello-hola](https://user-images.githubusercontent.com/78278982/138802904-928b5417-bfbb-47c4-86ab-12b05c5b784e.gif)
+<h1 align="center">Hi there, I'm Margarita <img alt="hello-hola" width="70px" src="https://user-images.githubusercontent.com/78278982/138802904-928b5417-bfbb-47c4-86ab-12b05c5b784e.gif"/>
 
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/margazm/) [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/margazm/) </h1>
 
@@ -36,8 +36,19 @@ Here are some ideas to get you started:
 
   <img alt="Figma" width="55px" height="28px"  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
+  <!--
+[<h2 align="center"> Mis proyectos favoritos: </h2>
+<br />
+  
+ <p align="center">
+   <a href="https://github.com/margaZM/LIM015-social-network">
+    <img alt="courshare" width="400" src="https://github.com/margaZM/margaZM/blob/main/courshare.png?raw=true" />
+   </a>
+   
+   
+ </p>](url)
+  
 
-<!--
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
