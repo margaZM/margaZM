@@ -36,7 +36,7 @@
    </a>
 
    
-   <a href="https://github.com/margaZM/LIM015-social-network">
+   <a href="https://github.com/margaZM/LIM015-social-network/src">
     <img alt="courshare-project" width="300px" height="220px" src="https://github.com/margaZM/margaZM/blob/main/courshare.png?raw=true" />
    </a>
    
