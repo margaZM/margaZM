@@ -8,91 +8,39 @@
 
 ![Group 115](https://user-images.githubusercontent.com/78278982/139191929-47388079-911e-4ff4-81ef-92b49708e624.png)
 
-
-
-
-<!--
-**margaZM/margaZM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning React Js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-<h2 align="center">Lenguajes y Herramientas: </h2>
-
-<div align="center">
-  <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-  <img  alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-  <img  alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-  <img  alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-  <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-  <img alt="Linux" width="55px" height="28px" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
-
-  <img alt="Figma" width="55px" height="28px"  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
-  
-[<h2 align="center"> Mis proyectos favoritos: </h2>
-<br />
-  
- <p align="center">
-   <a href="https://github.com/margaZM/LIM015-social-network">
-    <img alt="courshare" width="400" src="https://github.com/margaZM/margaZM/blob/main/courshare.png?raw=true" />
-   </a>
-   
-   
- </p>](url)
-  
-
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-
-
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />]
-
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]
-
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />]
-
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
-
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-
-
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
--->
-
-
 <div align="center">
   
  ![](https://komarev.com/ghpvc/?username=your-github-margaZM&color=76BCD2)
+  
 <br />
 <br />
 
 ---
-<!--  [![Marga's GitHub stats](https://github-readme-stats.vercel.app/api?username=margazm)](https://github.com/margazm/github-readme-stats) -->
+
 ![Marga's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=margazm)
 ![snake](https://raw.githubusercontent.com/margaZM/margaZM/386cac36b1b62c559407128cd242f9bbc94adf77/snake.svg)
+  
+<h2 align="center"> Mis proyectos favoritos: </h2>
+<br />
+<br />
+  
+ <div align="center">
+   
+   <a href="https://margazm.github.io/LIM015-burger-queen/src/">
+    <img alt="burger-quen-project" width="300px" height="220px" src="https://github.com/margaZM/margaZM/blob/main/burgerq.png?raw=true" />
+   </a>
+
+
+   <a href="https://margazm.github.io/LIM015-data-lovers/src/">
+    <img alt="datalovers-projects" width="300px" height="220px" src="https://github.com/margaZM/margaZM/blob/main/datalovers.png?raw=true" />
+   </a>
+
+   
+   <a href="https://github.com/margaZM/LIM015-social-network">
+    <img alt="courshare-project" width="300px" height="220px" src="https://github.com/margaZM/margaZM/blob/main/courshare.png?raw=true" />
+   </a>
+   
+ </div>
 
 </div>
 <!--
