@@ -5,6 +5,12 @@
 
 <h4 align="center"> Soy Front End Developer egresada de Laboratoria con experiencia en HTML/CSS - Javascript - React </h4>
 
+
+![Group 115](https://user-images.githubusercontent.com/78278982/139191929-47388079-911e-4ff4-81ef-92b49708e624.png)
+
+
+
+
 <!--
 **margaZM/margaZM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <h2 align="center">Lenguajes y Herramientas: </h2>
 
 <div align="center">
@@ -36,7 +43,7 @@ Here are some ideas to get you started:
 
   <img alt="Figma" width="55px" height="28px"  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
-  <!--
+  
 [<h2 align="center"> Mis proyectos favoritos: </h2>
 <br />
   
@@ -75,11 +82,15 @@ Here are some ideas to get you started:
 
 -->
 
+
+<div align="center">
+  
+ ![](https://komarev.com/ghpvc/?username=your-github-margaZM&color=76BCD2)
 <br />
 <br />
 
 ---
- [![Marga's GitHub stats](https://github-readme-stats.vercel.app/api?username=margazm)](https://github.com/margazm/github-readme-stats)
+<!--  [![Marga's GitHub stats](https://github-readme-stats.vercel.app/api?username=margazm)](https://github.com/margazm/github-readme-stats) -->
 ![Marga's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=margazm)
 ![snake](https://raw.githubusercontent.com/margaZM/margaZM/386cac36b1b62c559407128cd242f9bbc94adf77/snake.svg)
 
