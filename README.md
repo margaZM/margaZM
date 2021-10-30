@@ -26,26 +26,30 @@
 <h2 align="center"> Mis proyectos favoritos: </h2>
 <br />
 <br />
-  
-<div align="left">
-   <a  href="https://margazm.github.io/LIM015-burger-queen/src/">
-    <img alt="datalovers-projects" width="400px" height="300px" src="https://github.com/margaZM/margaZM/blob/main/burgerq.png?raw=true" />
+
+<div align="center"> 
+
+   <a href="https://margazm.github.io/LIM015-burger-queen/src/">
+    <img alt="datalovers-projects" width="250px" height="180px" src="https://github.com/margaZM/margaZM/blob/main/burgerq.png?raw=true" />
    </a>
-</div><div align="right">
+
    <a href="https://margazm.github.io/LIM015-data-lovers/src/">
-    <img  alt="datalovers-projects" width="400px" height="300px" src="https://github.com/margaZM/margaZM/blob/main/datalovers.png?raw=true" />
+    <img  alt="datalovers-projects" width="250px" height="180px" src="https://github.com/margaZM/margaZM/blob/main/datalovers.png?raw=true" />
    </a>
-</div><div align="left">
+
    <a href="https://margazm.github.io/LIM015-social-network/src/">
-    <img   alt="courshare-project" width="400px" height="300px"         src="https://github.com/margaZM/margaZM/blob/main/courshare.png?raw=true" />
+    <img  alt="courshare-project" width="250px" height="180px"         src="https://github.com/margaZM/margaZM/blob/main/courshare.png?raw=true" />
    </a>
-</div><div align="right">
+
   <a  href="https://www.npmjs.com/package/margazm-mdlinks">
-    <img align="right" alt="courshare-project" width="400px" height="300px" 
+    <img alt="courshare-project" width="250px" height="180px" 
     src="https://github.com/margaZM/margaZM/blob/main/mdlinks.png?raw=true" />
   </a>
    
 </div>
+
+<br />
+<br />
 
 
 
