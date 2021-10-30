@@ -2,47 +2,54 @@
 
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/margazm/) [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/margazm/) </h1>
 
-
 <h4 align="center"> Soy Front End Developer egresada de Laboratoria con experiencia en HTML/CSS - Javascript - React </h4>
 
 
 ![Group 115](https://user-images.githubusercontent.com/78278982/139191929-47388079-911e-4ff4-81ef-92b49708e624.png)
 
 <div align="center">
+
+  ![](https://komarev.com/ghpvc/?username=your-github-margaZM&color=76BCD2)
   
- ![](https://komarev.com/ghpvc/?username=your-github-margaZM&color=76BCD2)
+
   
 <br />
 <br />
 
 ---
 
-![Marga's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=margazm)
-![snake](https://raw.githubusercontent.com/margaZM/margaZM/386cac36b1b62c559407128cd242f9bbc94adf77/snake.svg)
+  ![Marga's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=margazm)
+  ![snake](https://raw.githubusercontent.com/margaZM/margaZM/386cac36b1b62c559407128cd242f9bbc94adf77/snake.svg)
+  
+</div>  
   
 <h2 align="center"> Mis proyectos favoritos: </h2>
 <br />
 <br />
   
- <div align="center">
-   
-   <a href="https://margazm.github.io/LIM015-burger-queen/src/">
-    <img alt="burger-quen-project" width="300px" height="220px" src="https://github.com/margaZM/margaZM/blob/main/burgerq.png?raw=true" />
+<div align="left">
+   <a  href="https://margazm.github.io/LIM015-burger-queen/src/">
+    <img alt="datalovers-projects" width="400px" height="300px" src="https://github.com/margaZM/margaZM/blob/main/burgerq.png?raw=true" />
    </a>
-
-
+</div><div align="right">
    <a href="https://margazm.github.io/LIM015-data-lovers/src/">
-    <img alt="datalovers-projects" width="300px" height="220px" src="https://github.com/margaZM/margaZM/blob/main/datalovers.png?raw=true" />
+    <img  alt="datalovers-projects" width="400px" height="300px" src="https://github.com/margaZM/margaZM/blob/main/datalovers.png?raw=true" />
    </a>
-
-   
+</div><div align="left">
    <a href="https://margazm.github.io/LIM015-social-network/src/">
-    <img alt="courshare-project" width="300px" height="220px" src="https://github.com/margaZM/margaZM/blob/main/courshare.png?raw=true" />
+    <img   alt="courshare-project" width="400px" height="300px"         src="https://github.com/margaZM/margaZM/blob/main/courshare.png?raw=true" />
    </a>
+</div><div align="right">
+  <a  href="https://www.npmjs.com/package/margazm-mdlinks">
+    <img align="right" alt="courshare-project" width="400px" height="300px" 
+    src="https://github.com/margaZM/margaZM/blob/main/mdlinks.png?raw=true" />
+  </a>
    
- </div>
-
 </div>
+
+
+
+
 <!--
 ### Connect with me: 
 
